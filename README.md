@@ -7,9 +7,6 @@ Welcome to the **Numpy-Python** repository! This project is dedicated to providi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
